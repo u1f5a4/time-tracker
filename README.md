@@ -14,3 +14,9 @@
 3. Отображать таймер.
 4. Работает без активной вкладки.
 5. Возобновляет свое состояние при обновлении страницы.
+
+
+## How run
+1. Clone this repository to your local machine.
+2. Navigate into the cloned repository directory.
+3. `npm i && npm run start`
